@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Projet Keylogger</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="html2pdf.bundle.min.js"></script>
+  <script>
+    function downloadExfiltratedData() {
+      const element = document.body;
+      var opt = {
+        margin:       1,
+        filename:     'exfiltrated_data.pdf',
+        jsPDF:        { format: 'a4', orientation: 'portrait' }
+      };
+      // Choose the element that our invoice is rendered in.
+      html2pdf().set(opt).from(element).toContainer().save();
+  }
+  </script>
+</head>
+
+<body>
+  <div  class="container">
+    <h1 class="title">Keylogger USB</h1>
+    <div class="buttons">
+      <!-- <button class="button" onclick="removeLast()">Supprimer la dernière frappe</button>
+      <button class="button" onclick="clearLog()">Supprimer toutes les frappes</button> -->
+      <button class="button" onclick="downloadExfiltratedData()">Download a PDF version of the data</button>
+    </div>
+    <div id="container_log" class="log-container">
+      <p id="log" ></p>
+    </div>
+    
+  </div>
+  <p class="bottom"> Projet 4A 2022-2023</p>
+  <script src="index.js"></script>
+</body>
+
+</html>
