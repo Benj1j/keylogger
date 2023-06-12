@@ -1,6 +1,7 @@
 # keylogger
 
 This is a simple keylogger project that we have been working on. It is plugged between the keyboard and the pc, and captures keystrokes on a target system, stores them in a log file, and then emits a wifi signal on which you can download the logfile. Please note that this project is for educational and demonstration purposes only. The use of keyloggers without proper authorization is illegal and unethical. Make sure to adhere to the laws and respect the privacy of others.
+
 Features
 
     Logs keystrokes on the target system.
