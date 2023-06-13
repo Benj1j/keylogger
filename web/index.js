@@ -95,7 +95,7 @@ function downloadExfiltratedData() {
   doc.setFontSize(12);
   doc.text(splitHeader, headerX, '30');
 
-  let fairUse = "This projet is an academic project and is intended to be used as a Proof Of Concept. By downloading this report, you agree to use the keylogger only for educational purposes, and not in a way that could harm anyone in any extent."
+  let fairUse = "This project is an academic project and is intended to be used as a Proof Of Concept. By downloading this report, you agree to use the keylogger only for educational purposes, and not in a way that could harm anyone in any extent."
   let splitFairUse = doc.splitTextToSize(fairUse, 180);
   let fairUseX = (doc.internal.pageSize.getWidth() - doc.getTextWidth(splitFairUse[0]))/2;
   doc.text(splitFairUse, fairUseX, '45');
