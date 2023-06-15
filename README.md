@@ -398,11 +398,11 @@
     - Vin=5V
     - Vout=3,3V
     
-    [https://lh5.googleusercontent.com/kc09C9r0BjvWXMRAUiTqn6Y1fBIv0Wfdy9cYwbQ3Udlqo5UEumVj0fQBE1y1fHtg4dpoQXx5aVlmeoiOS-w-Gm_W0TEm9dGbAZaYYWqh0IjcFeLdL9O7AQP82xXRTkPsQqcHclR0T_gQ9xCev4NvnFI](https://lh5.googleusercontent.com/kc09C9r0BjvWXMRAUiTqn6Y1fBIv0Wfdy9cYwbQ3Udlqo5UEumVj0fQBE1y1fHtg4dpoQXx5aVlmeoiOS-w-Gm_W0TEm9dGbAZaYYWqh0IjcFeLdL9O7AQP82xXRTkPsQqcHclR0T_gQ9xCev4NvnFI)
+    ![Untitled](Images/Untitled%2017.png)
     
     En résolvant l’équation, on trouve R2=20K, ce qui donne le schéma ci-dessous :
     
-    [https://lh5.googleusercontent.com/7V7BhscAN3HBBQfUe0HWxruN8XtghdOAqK3Ga9Fjg9d8oWzcQntx4OclyiUPzS8kLpymaf3IKgDJHGhyRbToHNbu3FBcUnoosm4yZ843FGPHKis64db8_WBO-qP9cMf5gWqJuVkcIKPZYvWVJc_qzMs](https://lh5.googleusercontent.com/7V7BhscAN3HBBQfUe0HWxruN8XtghdOAqK3Ga9Fjg9d8oWzcQntx4OclyiUPzS8kLpymaf3IKgDJHGhyRbToHNbu3FBcUnoosm4yZ843FGPHKis64db8_WBO-qP9cMf5gWqJuVkcIKPZYvWVJc_qzMs)
+    ![Untitled](Images/Untitled%2016.png)
     
     Nous avons utilisé 2 résistances 10K pour R2 en raison d’un manque de résistance 20K.
     
