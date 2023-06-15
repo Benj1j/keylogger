@@ -1,0 +1,102 @@
+body {
+  --main-color: #ffb300;
+  --secondary-color: #ffb812;
+  --alternate-color: #091632;
+  --alternate-secondary: #2b3f69;
+  --alternate-third: #0b1a3a;
+
+  background-color: var(--alternate-color);
+  color: #fff;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /*background-image: url("Poster_V0_3.png");
+  background-position: center; /* Center the image */
+  /*background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3em;
+  text-align: center;
+}
+
+.description {
+  font-size: 1.2em;
+  margin-top: 0;
+  text-align: center;
+}
+
+.log-container {
+  margin-top: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#log {
+  background-color: var(--alternate-secondary);
+  color: white;
+  font-size: 1.2em;
+  border: none;
+  width: 100%;
+  min-height: 150px;
+  padding: 10px;
+  border-radius: 2px;
+  overflow-wrap: break-word;
+}
+
+.buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button {
+  background-color: var(--main-color);
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: all .2s;
+}
+
+.button:hover {
+  background-color: var(--secondary-color);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #1A1E36;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #FFF;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+}
