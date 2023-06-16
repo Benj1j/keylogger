@@ -4,7 +4,7 @@
     
     ### But du projet
     
-    Nous avons travaillé pendant 1 an sur ce projet de Keylogger USB. C’est un dispositif branché entre le clavier et l’ordinateur. Il capture les frappes au clavier sur le système cible, les enregistre dans un fichier de log et créer un signal wifi sur lequel il est possible de télécharger ce fichier. 
+    Nous avons travaillé pendant 1 an sur ce projet de Keylogger USB. C’est un dispositif branché entre le clavier et l’ordinateur. Il capture les frappes au clavier sur le système cible, les enregistre dans un fichier de log et crée un signal wifi sur lequel il est possible de télécharger ce fichier. 
     
     ![Untitled](Images/Untitled.png)
     
