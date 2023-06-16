@@ -1,13 +1,7 @@
 # USB Keylogger
 
-- **Ce projet**
-    
-    ### But du projet
-    
-    Nous avons travaillé pendant 1 an sur ce projet de Keylogger USB. C’est un dispositif branché entre le clavier et l’ordinateur. Il capture les frappes au clavier sur le système cible, les enregistre dans un fichier de log et crée un signal wifi sur lequel il est possible de télécharger ce fichier. 
-    
-    ![Untitled](Images/Untitled.png)
-    
+- ##Ce projet
+
     ### Disclaimer
     
     L’utilisation de keyloggers pour capturer des données personnelles sans un consentement préalable est illégal et n’est pas éthique. Ce projet a été partagé dans un but éducatif et démonstratif. Nous nous opposons à une utilisation illégal de ce projet. Utilisez ce projet de manière responsable.
@@ -15,6 +9,12 @@
     ### Mention légale
     
     Les auteurs de ce projet ne sont pas responsables pour toute mauvaise utilisation ou dégats causés par the dispositif. L’utilisation des keyloggers sans autorisation est illégale. Soyez informés des lois et régulations avant d’utiliser ce projet.
+    
+    ### But du projet
+    
+    Nous avons travaillé pendant 1 an sur ce projet de Keylogger USB. C’est un dispositif branché entre le clavier et l’ordinateur. Il capture les frappes au clavier sur le système cible, les enregistre dans un fichier de log et crée un signal wifi sur lequel il est possible de télécharger ce fichier. 
+    
+    ![Untitled](Images/Untitled.png)
     
     ### Schéma du projet
     
